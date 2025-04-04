@@ -1,6 +1,5 @@
 {
     "recommendations": [
-        "ms-python.debugpy",
-        "formulahendry.code-runner"
+        "ms-python.debugpy"
     ]
 }
